@@ -1,0 +1,2 @@
+Please type something:
+"Hello World" has 10 alphanumeric characters and 0 non-alphanumeric characters.
